@@ -442,7 +442,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .menu .section_header > div.header_label_container { color: #949494; }
 
-.menu ul li a { background: #363636; border-bottom: 0; color: #e6e6e6; }
+.menu ul li a { background: #363636; border-bottom: 0; color: #d1d1d1; }
 
 .menu ul li a.delete_link { color: #bf360c; }
 
